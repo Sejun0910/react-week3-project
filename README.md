@@ -26,7 +26,7 @@
     - 숫자를 넣었을 때, 3자리 수마다 `콤마 ,`가 찍히는 input
     - form을 구현하고 각 input에 값을 입력하고 `저장` 버튼을 눌렀을 때 `{name: '아무 텍스트', price: "콤마가 없는 금액"}` 을 `alert`에 표시해보세요.
 
-###Select
+### Select
 
 - select를 구현합니다.
     - select를 클릭했을 때, option 들이 나오고 해당 option을 클릭하면 select의 값이 변경됩니다.
