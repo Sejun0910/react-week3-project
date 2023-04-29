@@ -1,4 +1,4 @@
-# React Lv.2
+# React Lv.3
 
 > Goal : 모달, 버튼을 포함한 웹페이지 연습하기
 <br/>
@@ -34,3 +34,8 @@
     부모 컴포넌트에 `hidden` 속성이 있다고 하더라도 select는 가려지지 않아야 합니다.
 
 <br/>
+
+과제 완료 영상
+
+https://user-images.githubusercontent.com/128359222/235279075-3c562efe-6d5e-40ec-b6a1-b50018e1cb8a.mp4
+
